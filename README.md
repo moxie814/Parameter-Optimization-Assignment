@@ -9,13 +9,6 @@
 
 ---
 
-## Result Table
-
-![Result Table](Result_Table.png)
-
-## Result Graph
-
-![Result Graph](Result_Graph.png)
 
 ## Overview
 
