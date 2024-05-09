@@ -1,6 +1,6 @@
 # Parameter-Optimization-Assignment
 
-# Parameter-Optimization-102103550
+# Parameter-Optimization
 
 ## Mannat Sadana
 
